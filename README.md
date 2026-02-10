@@ -11,4 +11,4 @@ A 16 years old French student
 </p>
 
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=slayzbs&show_icons=true&theme=radical" />
-<img alt="top langs" align="left" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=slayzbs&layout=compact&theme=radical" />
+<img alt="top langs" align="right" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=slayzbs&layout=compact&theme=radical" />
